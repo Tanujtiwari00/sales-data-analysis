@@ -23,3 +23,6 @@ Graphs showing:
 
 🚀 Conclusion
 This analysis helps understand sales trends and improve business decision
+
+📷 Visualizations
+![Sales Graph](graph.png)
